@@ -1,4 +1,4 @@
-# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No.5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -57,12 +57,12 @@
 
 ![Screenshot 2023-11-21 111238](https://github.com/JebaSolomonRajS/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139432449/59c57951-e40f-4c85-8932-bf471a1ca3ca)
 
-![Screenshot 2023-11-21 111249](https://github.com/JebaSolomonRajS/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139432449/affb9140-42b3-4257-b9a2-9c83270af194)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/ff96540c-39dd-478f-83e1-b8d47758629e)
 
 ### Name: Jeba Solomon Raj S
-### Register Number: 23001618
+### Register Number: 212223230089
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
